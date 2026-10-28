@@ -1,0 +1,5 @@
+QuestionText,QuestionType,Marks,Explanation,Option1,Option1Correct,Option2,Option2Correct,Option3,Option3Correct,Option4,Option4Correct
+"What does ACID stand for in relational databases?",SINGLE,1.00,"ACID stands for Atomicity, Consistency, Isolation, and Durability.",Atomicity Consistency Isolation Durability,true,Array Cluster Index Data,false,Asynchronous Cache In-memory Database,false,Action Constraint Idempotent Dependency,false
+"Which HTTP methods are typically considered idempotent? (Select all that apply)",MULTI,2.00,"GET, PUT, and DELETE are idempotent according to RFC 7231.",GET,true,PUT,true,POST,false,DELETE,true
+"What is the time complexity of binary search on a sorted array of size n?",SINGLE,1.00,"Binary search halves the search space at each step, yielding O(log n).",O(log n),true,O(n),false,O(1),false,O(n log n),false
+"In React, what triggers a component re-render?",SINGLE,1.00,"Changes in state or props trigger a component re-render.",State or props update,true,Writing to console.log,false,Changing a local non-state variable,false,Browser window resize alone,false
